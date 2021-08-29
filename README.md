@@ -8,3 +8,12 @@ This is a simple notepad to keep your notes clean and safe. KeepIt has simple fu
 
 Have Fun!
 
+
+# Tools
+*Windows only platform support
+
+*Java Version 8 
+
+*Command Prompt
+
+
