@@ -17,3 +17,7 @@ Have Fun!
 *Command Prompt
 
 
+# How to run the program
+
+
+First of all, you need to download the folder KeepIt. After, the only thing you have to do is, to double click the run.bat file and the program is automatically launching.
